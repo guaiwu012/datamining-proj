@@ -1,0 +1,3 @@
+audio_submit.ipynb包括了音频信息处理部分和建模预测的全部流程
+audio_phq4.csv包括音频相关的特征数据和其对应的phq4 score
+shuffle_submit包含了对步频聚类的随机打乱，用于制造噪音
